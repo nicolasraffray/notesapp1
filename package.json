@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Vish-Mayer/Notes-App/issues"
   },
-  "homepage": "https://github.com/Vish-Mayer/Notes-App#readme"
+  "homepage": "https://github.com/Vish-Mayer/Notes-App#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
